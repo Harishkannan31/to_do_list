@@ -1,0 +1,17 @@
+.footer_button{
+background-color: #fcd9d9; 
+width: 80px;
+height: 35px;
+border: 0px;
+border-radius: 5px;
+}
+
+.container-body{
+    justify-content: center;
+    align-items: baseline;
+    align-items: stretch;
+    top:0vh;
+left:20vh;
+    position: absolute;
+    display: flex;
+}
